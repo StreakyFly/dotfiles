@@ -1,2 +1,2 @@
 # dotfiles
- My legendary dot file(s).
+ My legendary dot files.
